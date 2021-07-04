@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.flex-hero{
+    align-items: center;
+    justify-content: space-between;
+    justify-content: center;
+}
+.justify-content{
+    justify-content: flex-start;
+}
+.align-center{
+    align-items: flex-start;
+}
+.flex-30{
+    flex: 0 1 30%;
+}
+.flex-40{
+    flex: 0 1 40%;
+}
+.flex-50{
+    flex: 0 1 50%;
+}
+.flex-60{
+    flex: 0 1 60%;
+}
